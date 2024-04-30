@@ -1,6 +1,6 @@
 ![logo](https://github.com/Gosplex/Gosplex/blob/main/gosplex.png)
 <h1 align="center">Hi 👋, I'm Gospel John</h1>
-<h3 align="center">A passionate Full-Stack developer and App developer on a mission to craft exceptional digital experiences.</h3>
+<h3 align="center">A passionate Full-Stack developer, App Developer and also have a good knowledge of Devops and AWS</h3>
 
 <img align="right" alt="Animated coding gif" src="https://bit.ly/3qO1u74" width="400">
 
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [an e-commerce website with full admin panel dashboard and payment integration](https://github.com/Gosplex/lara_ecommerce.git)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gosplex](https://github.com/Gosplex)
 
-- 💬 Ask me about **UI/UX, App dev, and Fullstack Tech**
+- 💬 Ask me about **UI/UX, App dev, Fullstack Tech, Devops, AWS**
 
 - 📫 How to reach me **johngospel003@gmail.com**
 
