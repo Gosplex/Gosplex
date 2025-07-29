@@ -1,4 +1,3 @@
-![logo](https://github.com/Gosplex/Gosplex/blob/main/gosplex.png)
 <h1 align="center">Hi 👋, I'm Gospel John</h1>
 <h3 align="center">A passionate Full-Stack developer, App Developer and also have a good knowledge of Devops and AWS</h3>
 
